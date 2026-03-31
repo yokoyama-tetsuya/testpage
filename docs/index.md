@@ -1,4 +1,4 @@
-# <span style="font: small;">testpage</span>
+# <span style="font-size: small;">testpage</span>
 # 本文のタイトル
 This bicep template creates three VNets, and their associated subnets.
 
