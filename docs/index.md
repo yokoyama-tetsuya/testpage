@@ -1,8 +1,8 @@
 ---
-title: 本文タイトル
+title: TEST PAGE
 ---
 
-# 本文タイトル
+# TEST PAGE
 This bicep template creates three VNets, and their associated subnets.
 
 1. Create a resource group using Az PowerShell
