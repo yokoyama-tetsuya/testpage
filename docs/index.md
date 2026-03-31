@@ -1,4 +1,5 @@
 # <span style="color: red;">TEST PAGE</span>
+# TEST PAGE
 This bicep template creates three VNets, and their associated subnets.
 
 1. Create a resource group using Az PowerShell
