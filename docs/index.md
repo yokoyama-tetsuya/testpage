@@ -1,5 +1,5 @@
 ---
-title: TEST PAGE TITLE
+title: 本文タイトル
 ---
 
 # 本文タイトル
