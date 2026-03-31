@@ -1,4 +1,4 @@
-# <span aria-hidden="true" style="opacity:0; font-size=small; position:absolute; left:-9999px;">testpage</span>
+# <span aria-hidden="true" class="sr-only">testpage</span>
 # 本文のタイトル
 This bicep template creates three VNets, and their associated subnets.
 
