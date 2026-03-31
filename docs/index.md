@@ -1,5 +1,5 @@
+<span style=backgroundcolor: black>
 # <span style="color: rgba(255, 0, 0, 0.0);">testpage</span>
-<style=backgroundcolor: black>
 # 本文のタイトル
 This bicep template creates three VNets, and their associated subnets.
 
@@ -17,3 +17,4 @@ $deploymentName = "AzInsiderDeployment"+"$date"
 
 New-AzResourceGroupDeployment -Name $deploymentName -ResourceGroupName ContosoResourceGroup -TemplateFile .\main.bicep -TemplateParameterFile .\azuredeploy.parameters.json -c
 ```
+</span>
