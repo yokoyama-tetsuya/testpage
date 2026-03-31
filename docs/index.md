@@ -1,7 +1,3 @@
----
-title: testpage
----
-
 # testpage
 This bicep template creates three VNets, and their associated subnets.
 
