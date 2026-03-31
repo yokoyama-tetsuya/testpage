@@ -1,4 +1,5 @@
 # <span style="color: rgba(255, 0, 0, 0.0);">testpage</span>
+<style=backgroundcolor: black>
 # 本文のタイトル
 This bicep template creates three VNets, and their associated subnets.
 
